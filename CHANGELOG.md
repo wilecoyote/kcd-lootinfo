@@ -13,6 +13,7 @@
 
 ## 1.8.1
 
+- NEW: Compatible with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/?)
 - NEW: Added modding_eula.txt
 - CHG: Changed folder structure
 - UPD: Adapted the mod to use table patching
