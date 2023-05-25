@@ -78,6 +78,12 @@ Not compatible with mods that edit the following files:
 - Data\Scripts\Entities\WH\Nest.lua
 - Data\Scripts\Entities\WH\StashCorpse.lua
 
+If you plan to use **LootInfo** along with:
+
+- [Lockpicking Overhaul](https://letsplaywithfire.com/releases/file/lockpicking-overhaul/) by [fireundubh](https://letsplaywithfire.com/about/)
+
+be aware to load it after **LootInfo** (mod_order.txt in **KingdomComeDeliverance\Mods** required)
+
 ### Patched Tables
 
 - Localization\Chinese_xml\text_ui_ingame.xml
@@ -88,7 +94,7 @@ Not compatible with mods that edit the following files:
 - Localization\Italian_xml\text_ui_ingame.xml
 - Localization\Polish_xml\text_ui_ingame.xml
 - Localization\Russian_xml\text_ui_ingame.xml
-- Localization\Spanish_xml\text_ui_ingame.xml
+- Localization\Spanish_xml\text_ui_ingame.
 
 ### Credits
 
