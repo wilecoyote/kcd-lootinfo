@@ -1,0 +1,10 @@
+<Table>
+<Row><Cell>ui_open_nest_searched</Cell><Cell>Examine nest</Cell><Cell>Nest untersuchen (durchsucht)</Cell></Row>
+<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Nest untersuchen (leer)</Cell></Row>
+<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Öffnen (durchsucht)</Cell></Row>
+<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Öffnen (leer)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Stehlen (durchsucht)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Stehlen (leer)</Cell></Row>
+<Row><Cell>ui_hud_loot_searched</Cell><Cell>Loot</Cell><Cell>Plündern (durchsucht)</Cell></Row>
+<Row><Cell>ui_hud_loot_empty</Cell><Cell>Loot</Cell><Cell>Plündern (leer)</Cell></Row>
+</Table>

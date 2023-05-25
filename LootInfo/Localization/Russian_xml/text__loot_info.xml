@@ -1,0 +1,10 @@
+<Table>
+<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Проверить гнездо (Проверено)</Cell></Row>
+<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Проверить гнездо (пустой)</Cell></Row>
+<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Открыть (Обыскано)</Cell></Row>
+<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Открыть (пустой)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Украсть (Обыскано)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Украсть (пустой)</Cell></Row>
+<Row><Cell>ui_hud_loot_searched</Cell><Cell>Loot</Cell><Cell>Обобрать (Обыскано)</Cell></Row>
+<Row><Cell>ui_hud_loot_empty</Cell><Cell>Loot</Cell><Cell>Обобрать (пустой)</Cell></Row>
+</Table>

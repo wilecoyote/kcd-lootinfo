@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+  <info>
+    <name>Loot Info</name>
+    <description>Adds additional Info to action tooltip of loot Button. e.g. (empty) or (searched).</description>
+    <author>JCDenton</author>
+    <version>1.8.3</version>
+    <created_on>2023/05/24</created_on>
+    <modid>loot_info</modid>
+  </info>
+  <supports>
+    <kcd_version>1.9.5</kcd_version>
+    <kcd_version>1.9.6</kcd_version>
+    <kcd_version>1.9.7</kcd_version>
+  </supports>
+</kcd_mod>
