@@ -4,7 +4,7 @@
 
 ## MOD Information
 
-- **MOD Name**:         [Loot Info - Container is empty or I already opened-looted it](https://www.nexusmods.com/kingdomcomedeliverance/mods/491)
+- **Origin**:         [Loot Info - Container is empty or I already opened-looted it](https://www.nexusmods.com/kingdomcomedeliverance/mods/491)
 - **Author:**           [PaulDenton](https://www.nexusmods.com/kingdomcomedeliverance/users/1637891)
 - **Updated by:**       [WileCoyote68](https://www.nexusmods.com/witcher3/users/3428152)
 - **License:**          [Creative Commons | BY-NC-SA](LICENSE.md)
