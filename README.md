@@ -61,6 +61,10 @@ If you need help with **Vortex Mod Manager** visit the **[Nexus Mods Discord](ht
 
 Not compatible with mods that edit the following files:
 
+<details>
+
+<summary>Edited Files</summary>
+
 - Data\Scripts\Entities\AI\Shared\BasicAIActions.lua
 - Data\Scripts\Entities\AI\Boar_x.lua
 - Data\Scripts\Entities\AI\Cow_x.lua
@@ -79,13 +83,18 @@ Not compatible with mods that edit the following files:
 - Data\Scripts\Entities\WH\Nest.lua
 - Data\Scripts\Entities\WH\StashCorpse.lua
 
+</details>
 If you plan to use **LootInfo** along with:
 
 - [Lockpicking Overhaul](https://letsplaywithfire.com/releases/file/lockpicking-overhaul/) by [fireundubh](https://letsplaywithfire.com/about/)
 
-be aware to load it after **LootInfo** (mod_order.txt in **KingdomComeDeliverance\Mods** required)
+be aware to load it after **LootInfo** (mod_order.txt in **KingdomComeDeliverance\Mods** required). The mod is fully compatible with [Perkaholic - PTF updated (1.9.4-1.9.6)](https://www.nexusmods.com/kingdomcomedeliverance/mods/1009) by [DarkDevil428](https://www.nexusmods.com/kingdomcomedeliverance/mods/1009)
 
 ### Patched Tables
+
+<details>
+
+<summary>Tables</summary>
 
 - Localization\Chinese_xml\text_ui_ingame.xml
 - Localization\Czech_xml\text_ui_ingame.xml
@@ -96,6 +105,8 @@ be aware to load it after **LootInfo** (mod_order.txt in **KingdomComeDeliveranc
 - Localization\Polish_xml\text_ui_ingame.xml
 - Localization\Russian_xml\text_ui_ingame.xml
 - Localization\Spanish_xml\text_ui_ingame.xml
+
+</details>
 
 ### Credits
 
