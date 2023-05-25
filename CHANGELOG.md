@@ -2,9 +2,9 @@
 
 ## 1.8.3
 
-- NEW: Added creative commons by-nc-sa license file in md format
+- NEW: Added [Creative Commons](https://creativecommons.org/) - [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode) license file in md format
+- CHG: Converted changelog and readme text to [Markdown](https://de.wikipedia.org/wiki/Markdown)
 - UPD: Re-added czech, french, italian, polish, russian and spanish translations
-- CHG: Converted changelog and readme text to markdown
 - UPD: Re-formatted all LUA files
 
 ## 1.8.2
@@ -19,6 +19,9 @@
 - UPD: Adapted the mod to use table patching
 - UPD: Adapted to Game-Version 1.9.6
 - UPD: Updated mod.manifest
+- REM: Removed **\Data\Libs\Localization\localization.xml**
+- REM: Removed requirement for [CLAM - Compatibility Localizations All Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/502)
+- REM: Removed all localizations except English and German (because at first it was an update for personal use only)
 
 ## 1.8.0
 
