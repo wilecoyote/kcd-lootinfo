@@ -15,7 +15,7 @@
 
 ## MOD Description
 
-Displays beside the interaction button for Loot/Open/Steal whether the content is empty, already been opened or looted.
+Displays beside the **Loot/Open/Steal** interaction button whether the content is empty, already been opened or looted.
 
 ### Features
 
@@ -28,6 +28,10 @@ Note: Already opened chests etc. (before this mod installed) are not displayed a
 ### Requirements
 
 The requirement for [CLAM - Compatibility Localizations All Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/502) was removed since we now use table patching for all localization files
+
+- At least **Kingdom Come: Deliverance v1.9.4** (because of table patching)
+
+The mod won't start on older versions of the game.
 
 ### How to install with Vortex Mod Manger (VMM)
 
@@ -84,6 +88,7 @@ Not compatible with mods that edit the following files:
 - Data\Scripts\Entities\WH\StashCorpse.lua
 
 </details>
+
 If you plan to use **LootInfo** along with:
 
 - [Lockpicking Overhaul](https://letsplaywithfire.com/releases/file/lockpicking-overhaul/) by [fireundubh](https://letsplaywithfire.com/about/)
