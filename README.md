@@ -128,3 +128,5 @@ In alphabetic order:
 - **[Valikon](https://www.nexusmods.com/users/3474366)** for the russian translation
 - **[Warhorse Studios](https://warhorsestudios.cz/)** Thanks for this great game and for your help finding the solution for the "empty" feature.
 - **[Wiwra](https://www.nexusmods.com/users/1707822)** for his help with the polish translation
+
+# [![ModsInExile](https://github.com/wilecoyote/kcd-hsg/assets/1034673/dea5bd3c-d655-4838-8084-5643608f96d5)](https://discourse.modsinexile.com/)[![KCD Modding](https://github.com/wilecoyote/kcd-hsg/assets/1034673/3facff5e-f616-4aba-8749-1dec72f32a5c)](https://discord.gg/h89SS5VkvU "Join KCD Modding")
