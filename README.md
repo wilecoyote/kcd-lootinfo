@@ -1,4 +1,4 @@
-# Loot Info - It's empty? Or have I already opened/looted?
+# Loot Info - Container is empty or I already opened-looted it
 
 ## by JC Denton
 
