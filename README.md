@@ -4,7 +4,7 @@
 
 ## MOD Information
 
-- **Origin**:         [Loot Info - Container is empty or I already opened-looted it](https://www.nexusmods.com/kingdomcomedeliverance/mods/491)
+- **Origin**:           [Loot Info - Container is empty or I already opened-looted it](https://www.nexusmods.com/kingdomcomedeliverance/mods/491)
 - **Author:**           [PaulDenton](https://www.nexusmods.com/kingdomcomedeliverance/users/1637891)
 - **Updated by:**       [WileCoyote68](https://www.nexusmods.com/witcher3/users/3428152)
 - **License:**          [Creative Commons | BY-NC-SA](LICENSE.md)
@@ -27,7 +27,7 @@ Note: Already opened chests etc. (before this mod installed) are not displayed a
 
 ### Requirements
 
-- Kingdom Come: Deliverance of course at least Version 1.9.5
+The requirement for [CLAM - Compatibility Localizations All Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/502) was removed since we now use table patching for all localization files
 
 ### How to install with Vortex Mod Manger (VMM)
 
@@ -95,16 +95,20 @@ be aware to load it after **LootInfo** (mod_order.txt in **KingdomComeDeliveranc
 - Localization\Italian_xml\text_ui_ingame.xml
 - Localization\Polish_xml\text_ui_ingame.xml
 - Localization\Russian_xml\text_ui_ingame.xml
-- Localization\Spanish_xml\text_ui_ingame.
+- Localization\Spanish_xml\text_ui_ingame.xml
 
 ### Credits
 
 In alphabetic order:
 
-- **guven34:** Thanks for the bug report and your help to send me necessary
-files for review.
-- **lionroot:** Thanks for your help to send me necessary files for review.
-- **daJbot** from **Pyros Software:** Thanks for Guidelines ReadMe and Description Page
-generator. Licensing/Legal
-- **Warhorse Studios:** Thanks for this great game and for your help finding the solution for the
-"empty" feature.
+- **[Cava1712](https://www.nexusmods.com/users/6435931)** for reporting the horse mounting bug
+- **[daJbot](https://www.nexusmods.com/users/2222832)** from **Pyros Software:** Thanks for [Guidelines 2015 - ReadMe and Description Page generator](https://www.nexusmods.com/newvegas/mods/40278). Licensing/Legal
+- **[FESilencer](https://www.nexusmods.com/users/10617840)** for reporting of 'Containers and NPCs seem to keep their searched tag even after re-spawning'
+- **[figo283](https://www.nexusmods.com/users/52476851)** for looking after and updating my mod during my "absence"
+- **[Frostmoon113](https://www.nexusmods.com/users/133261818)** for providing the latest fixes
+- **[guven34](https://www.nexusmods.com/users/2435474)** Thanks for the bug report and your help to send me necessary files for review.
+- **[lionroot](https://www.nexusmods.com/users/2034341)** Thanks for your help to send me necessary files for review.
+- **[NiftyPower](https://www.nexusmods.com/users/11054808)** for reporting the horse mounting bug
+- **[Valikon](https://www.nexusmods.com/users/3474366)** for the russian translation
+- **[Warhorse Studios](https://warhorsestudios.cz/)** Thanks for this great game and for your help finding the solution for the "empty" feature.
+- **[Wiwra](https://www.nexusmods.com/users/1707822)** for his help with the polish translation
