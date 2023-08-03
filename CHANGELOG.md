@@ -33,9 +33,9 @@
 
 ## 1.7.0
 
-- FIX: Corrected polish localization. Changed word **pusty** to **pusto** - reported by @Wiwra, thanks
-- FIX: Bugfix for mounting of horses which where prevented in the last release. - reported by @NiftyPower and @Cava1712, thanks
-- FIX: Containers and NPCs seem to keep their searched tag even after re-spawning. - reported by @FESilencer, thanks
+- FIX: Corrected polish localization. Changed word **pusty** to **pusto** - reported by Wiwra, thanks
+- FIX: Bugfix for mounting of horses which where prevented in the last release. - reported by NiftyPower and Cava1712, thanks
+- FIX: Containers and NPCs seem to keep their searched tag even after re-spawning. - reported by FESilencer, thanks
 - UPD: Adapted to Game-Version 1.8.1
 
 ## 1.6.0
