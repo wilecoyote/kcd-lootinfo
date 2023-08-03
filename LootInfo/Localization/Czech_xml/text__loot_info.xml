@@ -1,10 +1,11 @@
 <Table>
-<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Prohledat hnízdo (prohledáno)</Cell></Row>
-<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Prohledat hnízdo (prázdný)</Cell></Row>
-<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Otevřít (prohledáno)</Cell></Row>
-<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Otevřít (prázdný)</Cell></Row>
-<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Okrást (prohledáno)</Cell></Row>
-<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Okrást (prohledáno)</Cell></Row>
 <Row><Cell>ui_hud_loot_searched</Cell><Cell>Loot</Cell><Cell>Obrat (prohledáno)</Cell></Row>
 <Row><Cell>ui_hud_loot_empty</Cell><Cell>Loot</Cell><Cell>Obrat (prázdný)</Cell></Row>
+<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Prohledat hnízdo (prohledáno)</Cell></Row>
+<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Prohledat hnízdo (prázdný)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Okrást (prohledáno)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Okrást (prohledáno)</Cell></Row>
+<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Otevřít (prázdný)</Cell></Row>
+<Row><Cell>ui_open_stash_henry</Cell><Cell>Open</Cell><Cell>Otevřít (Jindřich)</Cell></Row>
+<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Otevřít (prohledáno)</Cell></Row>
 </Table>

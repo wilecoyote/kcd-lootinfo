@@ -4,8 +4,8 @@
     <name>Loot Info</name>
     <description>Adds additional Info to action tooltip of loot Button. e.g. (empty) or (searched).</description>
     <author>JCDenton</author>
-    <version>1.8.3</version>
-    <created_on>2023/05/24</created_on>
+    <version>1.8.4</version>
+    <created_on>2023/08/03</created_on>
     <modid>loot_info</modid>
   </info>
   <supports>

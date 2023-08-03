@@ -1,10 +1,11 @@
 <Table>
-<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Zbadaj gniazdo (Przeszukano)</Cell></Row>
-<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Zbadaj gniazdo (Pusto)</Cell></Row>
-<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Otwórz (Przeszukano)</Cell></Row>
-<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Otwórz (Pusto)</Cell></Row>
-<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Kradnij (Przeszukano)</Cell></Row>
-<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Kradnij (Pusto)</Cell></Row>
 <Row><Cell>ui_hud_loot_searched</Cell><Cell>Loot</Cell><Cell>Łup (Przeszukano)</Cell></Row>
 <Row><Cell>ui_hud_loot_empty</Cell><Cell>Loot</Cell><Cell>Łup (Pusto)</Cell></Row>
+<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Zbadaj gniazdo (Przeszukano)</Cell></Row>
+<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Zbadaj gniazdo (Pusto)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Kradnij (Przeszukano)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Kradnij (Pusto)</Cell></Row>
+<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Otwórz (Pusto)</Cell></Row>
+<Row><Cell>ui_open_stash_henry</Cell><Cell>Open</Cell><Cell>Otwórz (Henryk)</Cell></Row>
+<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Otwórz (Przeszukano)</Cell></Row>
 </Table>

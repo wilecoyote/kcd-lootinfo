@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.8.4
+
+- FIX: Re-added translation string for ui_open_stash_henry
+
 ## 1.8.3
 
 - NEW: Added [Creative Commons](https://creativecommons.org/) - [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode) license file in md format

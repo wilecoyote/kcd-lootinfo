@@ -1,10 +1,11 @@
 <Table>
-<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Examinar nido (registrado)</Cell></Row>
-<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Examinar nido (vaciado)</Cell></Row>
-<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Abrir (registrado)</Cell></Row>
-<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Abrir (vaciado)</Cell></Row>
-<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Robar (registrado)</Cell></Row>
-<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Robar (vaciado)</Cell></Row>
 <Row><Cell>ui_hud_loot_searched</Cell><Cell>Loot</Cell><Cell>Saquear (registrado)</Cell></Row>
 <Row><Cell>ui_hud_loot_empty</Cell><Cell>Loot</Cell><Cell>Saquear (vaciado)</Cell></Row>
+<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>Examinar nido (registrado)</Cell></Row>
+<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>Examinar nido (vaciado)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>Robar (registrado)</Cell></Row>
+<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>Robar (vaciado)</Cell></Row>
+<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>Abrir (vaciado)</Cell></Row>
+<Row><Cell>ui_open_stash_henry</Cell><Cell>Open</Cell><Cell>Abrir (Henry)</Cell></Row>
+<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>Abrir (registrado)</Cell></Row>
 </Table>
