@@ -10,7 +10,7 @@
 - **License:**          [Creative Commons | BY-NC-SA](LICENSE.md)
 - **Version History:**  [Changelog](CHANGELOG.md)
 - **Version:**          1.8.4
-- **Date:**             2023/05/24
+- **Date:**             2023/08/03
 - **Category:**         User Interface
 
 ## MOD Description
