@@ -1,0 +1,11 @@
+<Table>
+<Row><Cell>ui_hud_loot_searched</Cell><Cell>Loot</Cell><Cell>盗る（捜索済み）</Cell></Row>
+<Row><Cell>ui_hud_loot_empty</Cell><Cell>Loot</Cell><Cell>盗る（空）</Cell></Row>
+<Row><Cell>ui_open_nest_searched</Cell>	<Cell>Examine nest</Cell><Cell>巣を調べる（捜索済み）</Cell></Row>
+<Row><Cell>ui_open_nest_empty</Cell>	<Cell>Examine nest</Cell><Cell>巣を調べる（空）</Cell></Row>
+<Row><Cell>ui_open_stash_crime_searched</Cell><Cell>Rob</Cell><Cell>奪う（捜索済み）</Cell></Row>
+<Row><Cell>ui_open_stash_crime_empty</Cell><Cell>Rob</Cell><Cell>奪う（空）</Cell></Row>
+<Row><Cell>ui_open_stash_empty</Cell><Cell>Open</Cell><Cell>開ける（空）</Cell></Row>
+<Row><Cell>ui_open_stash_henry</Cell><Cell>Open</Cell><Cell>開ける（ヘンリー）</Cell></Row>
+<Row><Cell>ui_open_stash_searched</Cell><Cell>Open</Cell><Cell>開ける（捜索済み）</Cell></Row>
+</Table>
