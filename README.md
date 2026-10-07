@@ -9,8 +9,8 @@
 - **Updated by:**       [WileCoyote68](https://www.nexusmods.com/witcher3/users/3428152)
 - **License:**          [Creative Commons | BY-NC-SA](LICENSE.md)
 - **Version History:**  [Changelog](CHANGELOG.md)
-- **Version:**          1.8.4
-- **Date:**             2023/08/03
+- **Version:**          1.8.5
+- **Date:**             2026/10/08
 - **Category:**         User Interface
 
 ## MOD Description
